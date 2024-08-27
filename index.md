@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Jai Menon's Website (Username: menonj15)
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Jai's First CS193 Homework
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My favorite things about CS 193 include: 
+ - How chill the class is
+ - How it's only once a week
+ - The fact that I now know how to use GitHub
+ - How easy this homework assignment is
+ - **Gonna** randomly _put_ words `here` to see how they look
+
 
 ### Markdown!
 
